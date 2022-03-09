@@ -2,7 +2,7 @@
 <p>Desenvolvido em ReactJS.</p>
 
 <h2>Visite o projeto</h2>
-......
+https://calculadora-gold.vercel.app/
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
