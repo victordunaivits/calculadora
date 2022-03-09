@@ -1,4 +1,4 @@
-<h1>Netflix Clone</h1>
+<h1>Calculadora</h1>
 <p>Desenvolvido em ReactJS.</p>
 
 <h2>Visite o projeto</h2>
